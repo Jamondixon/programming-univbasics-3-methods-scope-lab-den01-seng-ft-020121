@@ -18,6 +18,5 @@ $phrase = "It's-a me, Mario!"
  end
 
  def all_phrases(mario, toadstool, link)
-   puts 
+   puts
  end
-
